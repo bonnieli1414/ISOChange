@@ -1,0 +1,3 @@
+D:\BPM\wildfly-15.0.0.Final\standalone\deployments\ISOModule.war
+
+若 有自行異動RWDFormJs底下的任一js檔，後續每次BPM版更都會被還原標準，每次BPM版更後，都要自行再調整。
